@@ -10,7 +10,7 @@ POUR UTILISER LA MAQUETTE :
 
 LICENCE
 Le logiciel est sous licence de logiciel libre CeCILL-B (LICENCE), licence permissive avec fort devoir de citation.
-SoFi ©2021 Pucci sous licence CeCIIL-B
+SoFi ©Pucci (2021) sous licence CeCIIL-B
 
 Citation suggérée :
 Pucci, M, 2021, SoFi, maquette de simulation de transferts sociaux et fiscaux, github.com/murielpucci/SOFI
