@@ -10,7 +10,7 @@ POUR UTILISER LA MAQUETTE :
 
 VERSIONS
 * Chaque année, la maquette est mise à jour et simule plus ou moins de transferts. La version 2021 étant la plus complète.
-* pour le moment seules les maquettes 2020 et 2021 sont mises en ligne mais d'autres (simulant dse legislations plus anciennes) suivront.
+* pour le moment seules les maquettes 2020 et 2021 sont mises en ligne mais d'autres (simulant des legislations plus anciennes) suivront.
 
 LICENCE
 Le logiciel est sous licence de logiciel libre CeCILL-B (LICENCE), licence permissive avec fort devoir de citation.
