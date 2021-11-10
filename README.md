@@ -1,6 +1,6 @@
 # SoFi
 Maquette Excel permettant de calculer la plupart des transferts sociaux et l'impôt sur le revenu de foyers en fonction de leur composition et de leurs revenus
-* un onglet Données renseigne les aramètres de la législation
+* un onglet Données renseigne les paramètres de la législation de l'année simulée
 * dans l'onglet cas types, on entre des informations sur le foyer étudier et la maquette calcule les transferts sociaux et fiscaux (d'où SoFi)
  
 POUR UTILISER LA MAQUETTE : 
